@@ -3,6 +3,8 @@ Git is a free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-InspurTop change this line at May 2. Commit directly to master.
+InspurTop change this line at May 2. Old macbook. Commit directly to master.
+
+InspurTop change this line at May 2. Old macbook. Create new branch called first branch.
 
 try remote submit
