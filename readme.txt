@@ -7,4 +7,6 @@ InspurTop change this line at May 2. Old macbook. Commit directly to master.
 
 InspurTop change this line at May 2. Old macbook. Create new branch called first branch.
 
+InspurTop change this line at May 2. Old macbook. Create new branch called second_branch
+
 try remote submit
